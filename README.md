@@ -1,3 +1,3 @@
-# Downloadable and playable on itch
+# DrawDemo
 
-### [DrawDemo](https://mayuso.itch.io/drawdemo)
+### [DrawDemo on itch](https://mayuso.itch.io/drawdemo)
